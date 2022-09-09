@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #b16ce1;
+}
+
+.bagianatas{
+    position: fixed;
+    width: 140vh;
+    height: 50px;
+    background-color: black;
+}
+
+.logoavgaming{
+ width: 200;
+ height: 45;
+}
+
+.burgerbar{
+width: 40;
+height: 30;
+float: left;
+margin: -35 0 0 20;
+}
+
+.search{
+width: 40;
+height: 30;
+float: right;
+margin: -35 50 0 0;    
+}
+
+.hapusfloat{
+    clear: both;
+}
+
+.borderml{
+width: 160px;
+height: 180px;
+margin: 30 0 0 20;
+border-radius: 25px;
+background-color: #603f8b;
+}
+#gbrats{
+width: 160;
+height: 150;
+margin: 0 0 0 0;
+margin-bottom: 500px;
+border-radius: 25px;
+}
+
+#tlsbwh{
+    width: 160;
+    height: 150;
+    margin: -630 0 0 0;
+    margin-bottom: 500px;
+    border-radius: 25px;
+    }
+
+.news{
+    width: 0px; 
+    height: 0px;
+   margin: 20 0 0 250;
+}
+
+.borderpubg{
+    width: 160px;
+height: 180px;
+margin: -180 0 0 200;
+border-radius: 25px;
+background-color: #603f8b;
+}
